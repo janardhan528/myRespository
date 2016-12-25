@@ -25,7 +25,7 @@
 	</div>
 
 <div class="panel-body">
-<!-- add customer page -->
+<!-- add customer page 1-->
 
 <c:url var="actionUrl" value="/saveOrUpdate" />
 
